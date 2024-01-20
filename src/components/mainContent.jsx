@@ -18,8 +18,8 @@ const MainContent = () => {
         </p>
         {/* Wrap the "Try it on" button with Link */}
         <div><Link to="/UploadPage" className="btn">
-          Try it on
-        </Link></div>
+          Try it on</Link>
+        </div>
       </div>
     </div>
   ));

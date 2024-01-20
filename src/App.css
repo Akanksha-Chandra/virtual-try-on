@@ -78,9 +78,9 @@ nav .search .fa + .fa {
   flex-wrap: wrap;
 }
 .main_content h3 {
-  position: absolute;
-  left: 0;
-  top: 0;
+  position: fixed;
+  left: 30%;
+  top: 35%;
   color: #2d343e;
   font-size: 10.5vw;
 }
@@ -98,6 +98,8 @@ nav .search .fa + .fa {
 }
 .main_content .card .card_img img {
   width: 200px;
+  height: 290px;
+  border-radius: 15px;
 }
 .main_content .card .card_header {
   flex-direction: column;

@@ -1,19 +1,21 @@
+
+
 const product_card = [
     {
         id: 1,
-        product_name: "Black Dress",
-        description: "Women trendy black dress with off-shoulder",
-        price: 950,
+        product_name: "Shirt and Trouser Set",
+        description: "Blue Shirt and Cream Trouser Set for Formal Events",
+        price: 3000,
         currency: "Rs",
-        thumb: "https://i.pinimg.com/564x/c4/fc/7a/c4fc7a62da66a03a08287645bd705106.jpg"
+        thumb: "public/img/one.jpg"
     },
     {
         id: 2,
-        product_name: "Ruffle Sleeves V-neck Dress",
-        description: "Ruffle Sleeves Bridesmaid Dress V-Neck Chiffon Long Formal Wedding Gown",
-        price: 2050,
+        product_name: "Army Green 3 piece Suit",
+        description: "Army Coloured Green Three piece Suit with white shirt",
+        price: 4050,
         currency: "Rs",
-        thumb: "https://i.pinimg.com/564x/b1/3f/d8/b13fd8e8fe658534ed5908f9d503ed57.jpg"
+        thumb: "public/img/two.jpg"
     },
     {
         id: 3,
